@@ -1,0 +1,29 @@
+#link1, #link2, #link3, #link4, #link5, #link6, #link7 {
+  width: 10%;
+  height: 9%;
+}
+
+body {
+  background-image: url(https://pin.dekhnews.com/wp-content/uploads/2019/09/pink-background.jpeg);
+
+}
+
+h1 {
+  font-family: "Times New Roman" ;
+  text-align: center;
+  color: darkblue;
+  text-shadow: 2px 2px 5px pink;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Times New Roman" ;
+  text-align: center;
+  color: lightcoral;
+  text-shadow: 2px 2px 5px white;
+  font-size: 30px;
+}
+
+p {font-family: sans-serif;}
+
+iframe {margin-top: -450px;}
